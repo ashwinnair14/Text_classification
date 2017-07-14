@@ -1,0 +1,2 @@
+model_checkpoint_path: "path/until/this/folder/ashwin_nair_submit/best_model/checkpoints/model-2600"
+all_model_checkpoint_paths: "path/until/this/folder/ashwin_nair_submit/best_model/checkpoints/model-2600"
