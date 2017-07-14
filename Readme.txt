@@ -21,4 +21,3 @@ I had decided to use this approach because I have previously worked on CNNs and 
 I tried a few different combinations before submission.
 The network is a bit overfit looking at the tersorflow loss graphs which can be accessed with the tensorboard.
 
-Thanks for giving me my first text classification task it was fun reading about it and working on it.
