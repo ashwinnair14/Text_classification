@@ -18,6 +18,5 @@ The code snippets are borrowed from https://github.com/jiegzhan/multi-class-text
 
 I had decided to use this approach because I have previously worked on CNNs and LSTMs with tensorflow for my thesis.
 
-I tried a few different combinations before submission.
 The network is a bit overfit looking at the tersorflow loss graphs which can be accessed with the tensorboard.
 
