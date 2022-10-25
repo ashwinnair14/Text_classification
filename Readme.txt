@@ -2,7 +2,6 @@ Readme
 
 ###############################
 Name:Ashwin Nair Anilil
-E-mail id: ashwin1411@icloud.com
 ################################
 
 Run the evaluate_xtest.py to get the prediction for xtest.txt
